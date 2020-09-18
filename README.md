@@ -40,7 +40,7 @@
 
 #
 
-## Olá, meu nome é Hans, sou aficcionado por front e mobile!
+## Olá, meu nome é Hans, sou aficionado por front e mobile! As vezes streamer!
 
 - 📱 Flutter/React Native
 - 💻 Javascript, Typescript, ReactJS
