@@ -45,3 +45,7 @@
 - 📱 Flutter/React Native
 - 💻 Javascript, Typescript, ReactJS
 - ☕ Java fanboy 
+
+![thecobra159's stats](https://github-readme-stats.vercel.app/api?username=thecobra159&show_icons=true&theme=radical&hide=contribs,prs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecobra159&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
