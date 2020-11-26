@@ -43,7 +43,7 @@
 ## Olá, meu nome é Hans, sou aficionado por front e mobile! As vezes streamer!
 
 - 📱 Flutter/React Native
-- 💻 Javascript, Typescript, ReactJS
+- 💻 Javascript, Typescript, ReactJS, Next.js
 - ☕ Java fanboy 
 
 ![thecobra159's stats](https://github-readme-stats.vercel.app/api?username=thecobra159&show_icons=true&theme=radical&hide=contribs,prs)
