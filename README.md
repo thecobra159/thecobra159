@@ -49,8 +49,8 @@ at [Banco Bari.](https://bancobari.com.br/).
 
 <br />
 <br />
-<br />
-<br />
+
+---
 
 ### Contact:
 
