@@ -5,10 +5,12 @@
 # Who am I?
 
 My name is Hans Schedel, I'm a 24 years old Computer Engineer studying Cyber Security and working as Front-End developer
-at [Banco Bari.](https://bancobari.com.br/).
+at <a target="_blank" rel="noopener noreferrer" href="https://bancobari.com.br/" >Banco Bari.</a>.
 
 ![thecobra159's stats](https://github-readme-stats.vercel.app/api?username=thecobra159&show_icons=true&theme=radical&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecobra159&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ### Languages, Frameworks and Tools:
 
@@ -51,8 +53,14 @@ at [Banco Bari.](https://bancobari.com.br/).
 <br />
 <br />
 <br />
+<br />
+<br />
+
+---
 
 ### Contact:
+
+<br />
 
 <div style="display: inline-block; width: 80%;">
   <a href="https://www.linkedin.com/in/hans-schedel-848a8312a/">
