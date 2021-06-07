@@ -5,10 +5,12 @@
 # Who am I?
 
 My name is Hans Schedel, I'm a 24 years old Computer Engineer studying Cyber Security and working as Front-End developer
-at [Banco Bari.](https://bancobari.com.br/).
+at <a target="_blank" rel="noopener noreferrer" href="https://bancobari.com.br/" >Banco Bari.</a>.
 
 ![thecobra159's stats](https://github-readme-stats.vercel.app/api?username=thecobra159&show_icons=true&theme=radical&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecobra159&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ### Languages, Frameworks and Tools:
 
@@ -49,43 +51,49 @@ at [Banco Bari.](https://bancobari.com.br/).
 
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
 
 ---
 
 ### Contact:
 
+<br />
+
 <div style="display: inline-block; width: 80%;">
-  <a href="https://www.linkedin.com/in/hans-schedel-848a8312a/">
+  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/hans-schedel-848a8312a/">
     <img align="left" style="margin: 10px;" width="50px" height="50px" alt="Hans Schedel Linkedin" src="./icons/social/linkedin.svg" />
   </a>
 
-  <a href="https://stackoverflow.com/users/11062237/hans-schedel">
+  <a target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/users/11062237/hans-schedel">
     <img align="left" style="margin: 10px;" width="50px" height="50px" alt="Hans Schedel StackOverflow" src="./icons/social/stack-overflow.svg" />
   </a>
 
-  <a href="https://instagram.com/h.schedel">
+  <a target="_blank" rel="noopener noreferrer" href="https://instagram.com/h.schedel">
     <img align="left" style="margin: 10px;" width="50px" height="50px" alt="Hans Schedel Instagram" src="./icons/social/instagram.svg" />
   </a>
 
-  <a href="https://twitter.com/schedelhans">
+  <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/schedelhans">
     <img align="left" style="margin: 10px;" width="50px" height="50px" alt="Hans Schedel Twitter" src="./icons/social/twitter.svg" />
 
-  <a href="https://api.whatsapp.com/send?phone=5541997394617&text=Ol%C3%A1!">
+  <a target="_blank" rel="noopener noreferrer" href="https://api.whatsapp.com/send?phone=5541997394617&text=Ol%C3%A1!">
     <img align="left" style="margin: 10px;" width="50px" height="50px" alt="Hans Schedel WhatsApp" src="./icons/social/whatsapp.svg" />
   </a>
 
-  <a href="https://t.me/thecobra159">
+  <a target="_blank" rel="noopener noreferrer" href="https://t.me/thecobra159">
     <img align="left" style="margin: 10px;" width="50px" height="50px" alt="Hans Schedel Telegram" src="./icons/social/telegram.svg" />
 
-  <a href="mailto:hans.haugusth@gmail.com">
+  <a target="_blank" rel="noopener noreferrer" href="mailto:hans.haugusth@gmail.com">
     <img align="left" style="margin: 10px;" width="50px" height="50px" alt="Hans Schedel Gmail" src="./icons/social/gmail.svg" />
   </a>
 
-  <a href="mailto:clopexman@hotmail.com">
+  <a target="_blank" rel="noopener noreferrer" href="mailto:clopexman@hotmail.com">
     <img align="left" style="margin: 10px;" width="50px" height="50px" alt="Hans Schedel Outlook" src="./icons/social/outlook.svg" />
   </a>
 
-  <a href="https://twitch.tv/thecobra159">
+  <a target="_blank" rel="noopener noreferrer" href="https://twitch.tv/thecobra159">
     <img align="left" style="margin: 10px;" width="50px" height="50px" alt="Hans Schedel Twitch" src="./icons/social/twitch.svg" />
   </a>
 </div>
