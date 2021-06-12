@@ -1,8 +1,8 @@
-name: Generate Datas
+name: Generate Snake Data
 
 on:
-  schedule: # execute every 24 hours
-    - cron: "* */24 * * *"
+  schedule: # execute every week
+    - cron: "* */168 * * *"
   workflow_dispatch:
 
 jobs:
